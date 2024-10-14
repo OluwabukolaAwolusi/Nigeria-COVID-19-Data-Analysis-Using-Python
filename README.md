@@ -1,3 +1,4 @@
+[capstone executive summary.docx](https://github.com/user-attachments/files/17367208/capstone.executive.summary.docx)
 
 
 # Nigeria-COVID-19-Data-Analysis-Using-Python
