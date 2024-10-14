@@ -1,4 +1,5 @@
-[capstone executive summary.docx](https://github.com/user-attachments/files/17193985/capstone.executive.summary.docx)
+
+
 # Nigeria-COVID-19-Data-Analysis-Using-Python
 Data Scientist Microdegree Capstone Project
 
