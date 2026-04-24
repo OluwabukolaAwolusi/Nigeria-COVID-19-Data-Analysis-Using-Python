@@ -1,3 +1,6 @@
+Introduction
+
+The COVID-19 pandemic has severely impacted Nigeria, affecting its economy, healthcare system, and population. The early part of the COVID-19 crisis ushered in Nigeria deepest recession since the 1980s, with services and industry hit especially hard. The COVID-19 pandemic and aftermath have had a huge effect on Nigeria’s socioeconomic growth, affecting many parts of the country’s economy and society. One of the biggest problems has been the disruption of the economy, which has caused people to lose their jobs and see big differences in their incomes. Due to lockdowns, many companies, especially small and medium-sized ones, had to close or cut back on their hours, which hurt people’s ability to make a living and made poverty worse. This analysis aims to provide insights into the spread of COVID-19 in Nigeria, identifying high-risk states, and assessing the impact of lockdown phases on confirmed cases.
 
 # Nigeria-COVID-19-Data-Analysis-Using-Python
 Data Scientist Microdegree Capstone Project
